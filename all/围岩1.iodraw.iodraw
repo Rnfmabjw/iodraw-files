@@ -387,12 +387,6 @@
         <mxCell id="5jGqypUi-wnqKBed6ipL-47" value="&lt;font face=&quot;Times New Roman&quot;&gt;74.72-157.51&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="260" y="980" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5jGqypUi-wnqKBed6ipL-53" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5jGqypUi-wnqKBed6ipL-40">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="860" as="sourcePoint" />
-            <mxPoint x="630" y="962" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5jGqypUi-wnqKBed6ipL-54" value="&lt;font face=&quot;Times New Roman&quot;&gt;3841.85-6532.62&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="80" y="880" width="110" height="30" as="geometry" />
         </mxCell>
@@ -415,7 +409,7 @@
           <mxGeometry x="80" y="947" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5jGqypUi-wnqKBed6ipL-66" value="&lt;font face=&quot;Times New Roman&quot;&gt;2.91-9.21&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="630" y="947" width="110" height="30" as="geometry" />
+          <mxGeometry x="630" y="950" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
