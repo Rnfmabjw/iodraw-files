@@ -315,6 +315,9 @@
         <mxCell id="5jGqypUi-wnqKBed6ipL-25" value="&lt;font face=&quot;Times New Roman&quot;&gt;9223.40-11914.18&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="90" y="510" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5jGqypUi-wnqKBed6ipL-26" value="&lt;font face=&quot;Times New Roman&quot;&gt;6532.62-9223.40&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="90" y="620" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
