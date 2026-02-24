@@ -118,9 +118,6 @@
         <mxCell id="9TBig8pYLt0LQ7Sun4oJ-26" value="&lt;font face=&quot;Times New Roman&quot;&gt;刀盘转速（rpm）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="768" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9TBig8pYLt0LQ7Sun4oJ-27" value="&lt;font face=&quot;Times New Roman&quot;&gt;推进速度（rpm）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="640" y="768" width="110" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="9TBig8pYLt0LQ7Sun4oJ-28" value="&lt;font face=&quot;Times New Roman&quot;&gt;11914.18-14604.95&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="90" y="880" width="110" height="30" as="geometry" />
         </mxCell>
