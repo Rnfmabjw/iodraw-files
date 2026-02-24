@@ -6,7 +6,7 @@
         <mxCell id="1" parent="0" />
         <mxCell id="ZYzhNGeTp86m0DPDv_MJ-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="360" as="sourcePoint" />
+            <mxPoint x="80" y="360" as="sourcePoint" />
             <mxPoint x="800" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -17,7 +17,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZYzhNGeTp86m0DPDv_MJ-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;推力（KN）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="368" width="90" height="30" as="geometry" />
+          <mxGeometry x="110" y="368" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZYzhNGeTp86m0DPDv_MJ-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;刀盘扭矩（KN·m）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="368" width="130" height="30" as="geometry" />
