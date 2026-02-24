@@ -16,8 +16,8 @@
             <mxPoint x="680" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZYzhNGeTp86m0DPDv_MJ-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="205" y="368" width="50" height="30" as="geometry" />
+        <mxCell id="ZYzhNGeTp86m0DPDv_MJ-3" value="推力（KN）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="368" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
