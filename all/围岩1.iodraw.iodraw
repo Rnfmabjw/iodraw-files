@@ -507,8 +507,8 @@
             <mxPoint x="460" y="905" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5jGqypUi-wnqKBed6ipL-84" value="&lt;font face=&quot;Times New Roman&quot;&gt;2.88-3.39&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="460" y="820" width="110" height="30" as="geometry" />
+        <mxCell id="5jGqypUi-wnqKBed6ipL-84" value="&lt;font face=&quot;Times New Roman&quot;&gt;3.39-3.89&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="450" y="700" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
