@@ -57,13 +57,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2j2vzAtNBaQDJfSh9pYl-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;预测值是否超过阈值？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="568" width="220" height="152" as="geometry" />
+          <mxGeometry x="120" y="568" width="200" height="152" as="geometry" />
         </mxCell>
         <mxCell id="2j2vzAtNBaQDJfSh9pYl-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2j2vzAtNBaQDJfSh9pYl-14" target="2j2vzAtNBaQDJfSh9pYl-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2j2vzAtNBaQDJfSh9pYl-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;发出报警，反馈控制室&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="745" width="200" height="40" as="geometry" />
+          <mxGeometry x="120" y="763" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2j2vzAtNBaQDJfSh9pYl-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2j2vzAtNBaQDJfSh9pYl-17" target="2j2vzAtNBaQDJfSh9pYl-0">
           <mxGeometry relative="1" as="geometry">
