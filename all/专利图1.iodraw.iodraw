@@ -65,6 +65,11 @@
         <mxCell id="2j2vzAtNBaQDJfSh9pYl-14" value="发出报警，反馈控制室" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="750" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="2j2vzAtNBaQDJfSh9pYl-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2j2vzAtNBaQDJfSh9pYl-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2j2vzAtNBaQDJfSh9pYl-17" value="自动调整掘进参数" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="830" width="200" height="40" as="geometry" />
         </mxCell>
