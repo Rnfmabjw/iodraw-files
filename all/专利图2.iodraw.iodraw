@@ -73,6 +73,12 @@
         <mxCell id="98s3FR9Gy7Sb51vBgxg8-6" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;振动物理信息神经网络&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="509" width="310" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="98s3FR9Gy7Sb51vBgxg8-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="324.99999999999955" y="475.75" as="targetPoint" />
+            <mxPoint x="115" y="475.5000000000002" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="98s3FR9Gy7Sb51vBgxg8-7" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;物理方程约束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-70" y="450" width="180" height="51" as="geometry" />
         </mxCell>
@@ -96,6 +102,12 @@
         </mxCell>
         <mxCell id="98s3FR9Gy7Sb51vBgxg8-20" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;振动物理信息神经网络&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="619.5" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="98s3FR9Gy7Sb51vBgxg8-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="324.99999999999955" y="589.5" as="targetPoint" />
+            <mxPoint x="125" y="590" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="98s3FR9Gy7Sb51vBgxg8-21" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;TBM现场实测振动数据&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-69" y="560" width="189" height="60" as="geometry" />
