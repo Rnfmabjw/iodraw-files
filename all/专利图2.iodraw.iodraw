@@ -76,8 +76,13 @@
         <mxCell id="98s3FR9Gy7Sb51vBgxg8-7" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;物理方程约束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-70" y="440" width="180" height="51" as="geometry" />
         </mxCell>
+        <mxCell id="98s3FR9Gy7Sb51vBgxg8-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="98s3FR9Gy7Sb51vBgxg8-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="679.9999999999995" y="579.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="98s3FR9Gy7Sb51vBgxg8-10" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;TBM现场实测振动数据&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="790" y="550" width="180" height="54" as="geometry" />
+          <mxGeometry x="790" y="553" width="180" height="54" as="geometry" />
         </mxCell>
         <mxCell id="98s3FR9Gy7Sb51vBgxg8-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="98s3FR9Gy7Sb51vBgxg8-17" target="98s3FR9Gy7Sb51vBgxg8-24">
           <mxGeometry relative="1" as="geometry" />
