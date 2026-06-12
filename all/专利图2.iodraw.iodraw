@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;建立刀盘-主梁振动高仿真振动模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="520" y="410" width="310" height="70" as="geometry" />
+          <mxGeometry x="520" y="403" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2j2vzAtNBaQDJfSh9pYl-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2j2vzAtNBaQDJfSh9pYl-12" target="2j2vzAtNBaQDJfSh9pYl-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -53,25 +53,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="98s3FR9Gy7Sb51vBgxg8-0" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;虚拟仿真数据集&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="238" width="310" height="70" as="geometry" />
+          <mxGeometry x="520" y="231" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="98s3FR9Gy7Sb51vBgxg8-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="98s3FR9Gy7Sb51vBgxg8-2" target="98s3FR9Gy7Sb51vBgxg8-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="98s3FR9Gy7Sb51vBgxg8-2" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;时空图&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;Transformer&lt;/span&gt;网络&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="238" width="310" height="70" as="geometry" />
+          <mxGeometry x="170" y="231" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="98s3FR9Gy7Sb51vBgxg8-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="98s3FR9Gy7Sb51vBgxg8-4" target="98s3FR9Gy7Sb51vBgxg8-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="98s3FR9Gy7Sb51vBgxg8-4" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;刀盘三维振动预测张量生成&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="353" width="310" height="70" as="geometry" />
+          <mxGeometry x="170" y="346" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="98s3FR9Gy7Sb51vBgxg8-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="98s3FR9Gy7Sb51vBgxg8-6" target="98s3FR9Gy7Sb51vBgxg8-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="98s3FR9Gy7Sb51vBgxg8-6" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;振动物理信息神经网络&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="480" width="310" height="70" as="geometry" />
+          <mxGeometry x="170" y="473" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="98s3FR9Gy7Sb51vBgxg8-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="98s3FR9Gy7Sb51vBgxg8-7">
           <mxGeometry relative="1" as="geometry">
@@ -79,7 +79,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="98s3FR9Gy7Sb51vBgxg8-7" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;物理方程约束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-70" y="410" width="189" height="70" as="geometry" />
+          <mxGeometry x="-70" y="403" width="189" height="70" as="geometry" />
         </mxCell>
         <mxCell id="98s3FR9Gy7Sb51vBgxg8-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="98s3FR9Gy7Sb51vBgxg8-10">
           <mxGeometry relative="1" as="geometry">
@@ -87,7 +87,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="98s3FR9Gy7Sb51vBgxg8-10" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;TBM现场实测振动数据&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="790" y="502" width="189" height="60" as="geometry" />
+          <mxGeometry x="790" y="495" width="189" height="60" as="geometry" />
         </mxCell>
         <mxCell id="98s3FR9Gy7Sb51vBgxg8-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="98s3FR9Gy7Sb51vBgxg8-17" target="98s3FR9Gy7Sb51vBgxg8-24">
           <mxGeometry relative="1" as="geometry" />
@@ -110,7 +110,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="98s3FR9Gy7Sb51vBgxg8-21" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;TBM现场实测振动数据&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-69" y="550" width="189" height="60" as="geometry" />
+          <mxGeometry x="-69" y="543" width="189" height="60" as="geometry" />
         </mxCell>
         <mxCell id="98s3FR9Gy7Sb51vBgxg8-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="98s3FR9Gy7Sb51vBgxg8-24" target="98s3FR9Gy7Sb51vBgxg8-27">
           <mxGeometry relative="1" as="geometry" />
