@@ -22,11 +22,11 @@
         <mxCell id="ZYzhNGeTp86m0DPDv_MJ-4" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;刀盘扭矩（KN·m）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=16;" parent="1" vertex="1">
           <mxGeometry x="265" y="368" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZYzhNGeTp86m0DPDv_MJ-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;刀盘转速（rpm）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=16;" parent="1" vertex="1">
-          <mxGeometry x="470" y="368" width="110" height="30" as="geometry" />
+        <mxCell id="ZYzhNGeTp86m0DPDv_MJ-5" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;刀盘转速（rpm）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=16;" parent="1" vertex="1">
+          <mxGeometry x="450" y="368" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZYzhNGeTp86m0DPDv_MJ-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;推进速度（mm/min）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=16;" parent="1" vertex="1">
-          <mxGeometry x="635" y="368" width="140" height="30" as="geometry" />
+        <mxCell id="ZYzhNGeTp86m0DPDv_MJ-6" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;推进速度（mm/min）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=16;" parent="1" vertex="1">
+          <mxGeometry x="620" y="368" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZYzhNGeTp86m0DPDv_MJ-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;11914.18-14604.95&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="100" y="480" width="110" height="30" as="geometry" />
