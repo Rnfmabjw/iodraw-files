@@ -19,8 +19,8 @@
         <mxCell id="ZYzhNGeTp86m0DPDv_MJ-3" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;推力（KN）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=16;" parent="1" vertex="1">
           <mxGeometry x="100" y="368" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZYzhNGeTp86m0DPDv_MJ-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;刀盘扭矩（KN·m）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=16;" parent="1" vertex="1">
-          <mxGeometry x="280" y="368" width="130" height="30" as="geometry" />
+        <mxCell id="ZYzhNGeTp86m0DPDv_MJ-4" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;刀盘扭矩（KN·m）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=16;" parent="1" vertex="1">
+          <mxGeometry x="265" y="368" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZYzhNGeTp86m0DPDv_MJ-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;刀盘转速（rpm）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=16;" parent="1" vertex="1">
           <mxGeometry x="470" y="368" width="110" height="30" as="geometry" />
