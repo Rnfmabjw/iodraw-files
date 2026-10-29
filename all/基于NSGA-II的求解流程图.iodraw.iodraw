@@ -157,6 +157,9 @@
         <mxCell id="H3NDylLWcXLUeuGC7ItZ-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H3NDylLWcXLUeuGC7ItZ-76" target="H3NDylLWcXLUeuGC7ItZ-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ad1fnJFW3JNIPYaaa8b8-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H3NDylLWcXLUeuGC7ItZ-76" target="ad1fnJFW3JNIPYaaa8b8-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H3NDylLWcXLUeuGC7ItZ-76" value="&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;输入样本&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry y="1380" width="60" height="120" as="geometry" />
         </mxCell>
@@ -188,6 +191,9 @@
         </mxCell>
         <mxCell id="H3NDylLWcXLUeuGC7ItZ-104" value="&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;输出优化结果&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="740" y="1380" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ad1fnJFW3JNIPYaaa8b8-0" value="&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;输入样本&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="1380" width="60" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
