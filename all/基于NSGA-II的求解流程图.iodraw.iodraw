@@ -109,6 +109,9 @@
         <mxCell id="H3NDylLWcXLUeuGC7ItZ-71" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&amp;lt;br/&amp;gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&amp;lt;br/&amp;gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;background:yellow;mso-highlight:yellow;mso-font-kerning:1.0pt;mso-ligatures:&amp;lt;br/&amp;gt;standardcontextual;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&amp;lt;br/&amp;gt;mso-bidi-language:AR-SA&quot;&gt;满足&lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;WI&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&amp;lt;br/&amp;gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&amp;lt;br/&amp;gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;background:yellow;mso-highlight:yellow;mso-font-kerning:1.0pt;mso-ligatures:&amp;lt;br/&amp;gt;standardcontextual;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&amp;lt;br/&amp;gt;mso-bidi-language:AR-SA&quot;&gt;推荐规则&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="780" y="1210" width="90" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="H3NDylLWcXLUeuGC7ItZ-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H3NDylLWcXLUeuGC7ItZ-75" target="H3NDylLWcXLUeuGC7ItZ-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H3NDylLWcXLUeuGC7ItZ-75" value="&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;构建约束搜索空间&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="174" y="1240" width="60" height="100" as="geometry" />
         </mxCell>
@@ -124,8 +127,14 @@
         <mxCell id="H3NDylLWcXLUeuGC7ItZ-78" value="&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;推荐参数范围进行对应约束&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1059" y="1230" width="60" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="H3NDylLWcXLUeuGC7ItZ-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H3NDylLWcXLUeuGC7ItZ-79" target="H3NDylLWcXLUeuGC7ItZ-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H3NDylLWcXLUeuGC7ItZ-79" value="&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;生成&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;候选参数组合&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="266" y="1240" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="H3NDylLWcXLUeuGC7ItZ-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H3NDylLWcXLUeuGC7ItZ-80" target="H3NDylLWcXLUeuGC7ItZ-81">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H3NDylLWcXLUeuGC7ItZ-80" value="&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;计算候选参数组合的目标值&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="358" y="1240" width="60" height="100" as="geometry" />
