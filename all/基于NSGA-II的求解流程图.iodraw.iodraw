@@ -194,7 +194,7 @@
         </mxCell>
         <mxCell id="ad1fnJFW3JNIPYaaa8b8-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ad1fnJFW3JNIPYaaa8b8-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="2105.8333333333335" as="targetPoint" />
+            <mxPoint x="280" y="2010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ad1fnJFW3JNIPYaaa8b8-6" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;满足设定终止条件&lt;/font&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=middle;textDirection=ltr;direction=west;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;fontFamily=微软雅黑;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
