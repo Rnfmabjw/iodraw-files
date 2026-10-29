@@ -190,10 +190,10 @@
           <mxGeometry x="740" y="1380" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ad1fnJFW3JNIPYaaa8b8-6" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;满足设定终止条件&lt;/font&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=middle;textDirection=ltr;direction=west;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;fontFamily=微软雅黑;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410.5" y="1790.5" width="160" height="79" as="geometry" />
+          <mxGeometry x="16" y="2090" width="160" height="79" as="geometry" />
         </mxCell>
         <mxCell id="ad1fnJFW3JNIPYaaa8b8-11" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;满足&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;WI&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;推&lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;荐规则&lt;/font&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;direction=west;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;fontFamily=微软雅黑;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="1790" width="160" height="80" as="geometry" />
+          <mxGeometry x="16" y="2190" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ad1fnJFW3JNIPYaaa8b8-13" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;构建约束搜索空间&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;fontFamily=微软雅黑;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="46" y="1724" width="100" height="60" as="geometry" />
@@ -211,7 +211,7 @@
           <mxGeometry x="44" y="2010" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ad1fnJFW3JNIPYaaa8b8-23" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;推荐参数范围进行对应约束&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;fontFamily=微软雅黑;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="580" y="1640" width="60" height="100" as="geometry" />
+          <mxGeometry x="220" y="2180" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ad1fnJFW3JNIPYaaa8b8-24" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;输出优化结果&lt;/font&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=微软雅黑;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="1800" width="120" height="60" as="geometry" />
