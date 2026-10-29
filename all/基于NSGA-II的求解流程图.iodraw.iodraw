@@ -207,6 +207,9 @@
         <mxCell id="ad1fnJFW3JNIPYaaa8b8-15" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;输入样本&lt;/font&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;fontFamily=微软雅黑;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="36" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ad1fnJFW3JNIPYaaa8b8-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ad1fnJFW3JNIPYaaa8b8-17" target="ad1fnJFW3JNIPYaaa8b8-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ad1fnJFW3JNIPYaaa8b8-17" value="&lt;font face=&quot;微软雅黑&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;生成&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;候选参数组合&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;fontFamily=微软雅黑;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="46" y="1809.5" width="100" height="60" as="geometry" />
         </mxCell>
