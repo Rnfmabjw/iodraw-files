@@ -110,7 +110,7 @@
           <mxGeometry x="780" y="1210" width="90" height="160" as="geometry" />
         </mxCell>
         <mxCell id="H3NDylLWcXLUeuGC7ItZ-75" value="&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;构建约束搜索空间&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="194" y="1247" width="60" height="100" as="geometry" />
+          <mxGeometry x="194" y="1240" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="H3NDylLWcXLUeuGC7ItZ-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H3NDylLWcXLUeuGC7ItZ-76" target="H3NDylLWcXLUeuGC7ItZ-75">
           <mxGeometry relative="1" as="geometry" />
