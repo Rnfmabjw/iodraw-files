@@ -234,7 +234,7 @@
         <mxCell id="ad1fnJFW3JNIPYaaa8b8-21" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;进行参数组合迭代搜索&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;fontFamily=微软雅黑;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="46" y="1986" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ad1fnJFW3JNIPYaaa8b8-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ad1fnJFW3JNIPYaaa8b8-23" target="ad1fnJFW3JNIPYaaa8b8-24">
+        <mxCell id="ad1fnJFW3JNIPYaaa8b8-38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ad1fnJFW3JNIPYaaa8b8-23" target="ad1fnJFW3JNIPYaaa8b8-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="255.57142857142867" y="2340" as="targetPoint" />
             <Array as="points">
