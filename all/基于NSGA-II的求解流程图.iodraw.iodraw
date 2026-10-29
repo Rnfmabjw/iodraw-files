@@ -241,9 +241,6 @@
         <mxCell id="ad1fnJFW3JNIPYaaa8b8-15" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;输入样本&lt;/font&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;fontFamily=微软雅黑;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="44" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ad1fnJFW3JNIPYaaa8b8-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;fontFamily=微软雅黑;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ad1fnJFW3JNIPYaaa8b8-19" target="ad1fnJFW3JNIPYaaa8b8-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ad1fnJFW3JNIPYaaa8b8-17" value="&lt;font face=&quot;微软雅黑&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;生成&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;候选参数组合&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;fontFamily=微软雅黑;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="146" y="1800" width="100" height="60" as="geometry" />
         </mxCell>
@@ -269,9 +266,6 @@
         </mxCell>
         <mxCell id="ad1fnJFW3JNIPYaaa8b8-24" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;输出优化结果&lt;/font&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=微软雅黑;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="1800" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ad1fnJFW3JNIPYaaa8b8-25" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="1660" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
