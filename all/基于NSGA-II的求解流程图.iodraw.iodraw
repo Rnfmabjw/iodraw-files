@@ -223,7 +223,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ad1fnJFW3JNIPYaaa8b8-15" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;输入样本&lt;/font&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;fontFamily=微软雅黑;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="36" y="1640" width="120" height="60" as="geometry" />
+          <mxGeometry x="36" y="1550" width="174" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ad1fnJFW3JNIPYaaa8b8-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ad1fnJFW3JNIPYaaa8b8-17" target="ad1fnJFW3JNIPYaaa8b8-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -256,17 +256,6 @@
         </mxCell>
         <mxCell id="ad1fnJFW3JNIPYaaa8b8-24" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;输出优化结果&lt;/font&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fontFamily=微软雅黑;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="36" y="2279" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ad1fnJFW3JNIPYaaa8b8-26" value="" style="endArrow=none;dashed=1;html=1;rounded=1;curved=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="1610" as="sourcePoint" />
-            <mxPoint x="320" y="1610" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="570" y="1610" />
-              <mxPoint x="570" y="1710" />
-              <mxPoint x="320" y="1710" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
