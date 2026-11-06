@@ -255,7 +255,7 @@
           <mxGeometry x="340" y="1560" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="bXCJ4uHO-lhrSuuJU_X5-3" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 18pt; font-weight: bold;&quot;&gt;生成候选参数组合&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 16pt;&quot;&gt;在约束范围内，生成均匀分布的初始候选解&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;fontFamily=微软雅黑;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="1570" width="163" height="150" as="geometry" />
+          <mxGeometry x="780" y="1560" width="163" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
