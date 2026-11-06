@@ -252,7 +252,7 @@
           <mxGeometry x="383" y="2225" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXCJ4uHO-lhrSuuJU_X5-0" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 18pt; font-weight: bold;&quot;&gt;构建约束搜索空间&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 16pt;&quot;&gt;根据地质特征匹配对应的参数上下限范围&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;fontFamily=微软雅黑;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="1560" width="170" height="150" as="geometry" />
+          <mxGeometry x="340" y="1560" width="160" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
