@@ -304,7 +304,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bXCJ4uHO-lhrSuuJU_X5-24" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bXCJ4uHO-lhrSuuJU_X5-20">
+        <mxCell id="bXCJ4uHO-lhrSuuJU_X5-24" value="未收敛" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bXCJ4uHO-lhrSuuJU_X5-20">
           <mxGeometry x="-0.0526" y="9" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
