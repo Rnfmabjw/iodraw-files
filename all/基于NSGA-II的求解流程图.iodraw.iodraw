@@ -258,7 +258,7 @@
           <mxGeometry x="190" y="1938" width="300" height="150" as="geometry" />
         </mxCell>
         <mxCell id="bXCJ4uHO-lhrSuuJU_X5-8" value="&lt;span style=&quot;font-family: 微软雅黑; font-size: 24px; font-weight: 700; white-space: normal;&quot;&gt;判断初步结果是否满足终止条件&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="481" y="2100" width="360" height="40" as="geometry" />
+          <mxGeometry x="556" y="1993" width="360" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
